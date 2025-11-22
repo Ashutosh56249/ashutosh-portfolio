@@ -5,9 +5,12 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[Ashutosh-Portfolio]](#)
 
 🖼️ **Screenshots**
-<img width="1902" height="94" alt="" src="https://drive.google.com/file/d/1INXzAf9JKe1qALjxlpaHoAoGpwp7Bi5P/view?usp=sharing" />
-<img width="1894" height="992" alt="" src="https://drive.google.com/file/d/1INXzAf9JKe1qALjxlpaHoAoGpwp7Bi5P/view?usp=sharing" />
-<img width="1903" height="" alt="" />
+<img src="https://drive.google.com/uc?export=view&id=1INXzAf9JKe1qALjxlpaHoAoGpwp7Bi5P" width="1400" />
+<img src="https://drive.google.com/uc?export=view&id=1sXmLijsm1yTneu9aKSn3QNod4PQY9HEz" width="1400" />
+<img src="https://drive.google.com/uc?export=view&id=19AstWvTzY0sNmYkh_jPq8MDxzA9W_yDF" width="1400" />
+
+
+
 ---
 
 ## 🚀 Features
@@ -76,7 +79,3 @@ Every push to the `main` branch triggers an automatic rebuild and deployment.
 
 This project is open source and available under the [MIT License](LICENSE).
 Feel free to fork, use, and build upon it ⭐
-
----
-
-> *“Showcasing my work and passion through technology 💻”*
