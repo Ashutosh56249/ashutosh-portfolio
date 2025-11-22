@@ -5,7 +5,7 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[Ashutosh-Portfolio]](#)
 
 🖼️ **Screenshots**
-<img width="1902" height="994" alt="" src="" />
+<img width="1902" height="994" alt="" src="https://drive.google.com/file/d/1INXzAf9JKe1qALjxlpaHoAoGpwp7Bi5P/view?usp=sharing" />
 <img width="1894" height="992" alt="" src="" />
 <img width="1903" height="" alt="" />
 ---
